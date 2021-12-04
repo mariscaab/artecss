@@ -1,0 +1,54 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100xp;
+    font-weight: bold;
+    color: khaki;   
+    text-align: center;
+}
+
+.messi{
+    background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
+  height: 100px;
+  background-position: center;
+
+}
+  
+}
+
+.pared{
+    object-fit: cover;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.brochas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.cuadros{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.pinturas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.empezando{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
